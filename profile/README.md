@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="logo.svg" alt="Logo" width="80" height="80">
+  <img src="https://github.com/Plantaludum/.github/blob/main/profile/logo.svg" alt="Logo" width="80" height="80">
   <h3 align="center">Plantaludum</h3>
 
   <p align="center">
@@ -12,5 +12,3 @@
     <a href="https://github.com/Instelce/Plantaludum/issues">Reporter un bug</a>
   </p>
 </p>
-
-![Contributors](https://img.shields.io/github/contributors/Instelce/Plantaludum?color=dark-green) ![Issues](https://img.shields.io/github/issues/Instelce/Plantaludum)
